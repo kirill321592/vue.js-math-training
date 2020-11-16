@@ -1,6 +1,5 @@
 import Vue from 'vue'
 import App from './App.vue'
-
 import AppMsg from './components/msg.vue'
 import AppQst from './components/quest.vue'
 import AppStart from './components/startsc.vue'
